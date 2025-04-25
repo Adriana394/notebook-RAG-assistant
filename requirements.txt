@@ -1,0 +1,5 @@
+python-dotenv>=1.0.0
+langchain>=0.0.264
+openai>=0.27.0
+chromadb>=0.3.25
+gradio>=3.50.0
